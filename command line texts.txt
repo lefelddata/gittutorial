@@ -1,0 +1,13 @@
+
+cd and then .. moves up a folder path
+cd ..
+
+cd then folder name moves you to that folder path if it is created
+
+DIR or dir
+this shows all the files within the folder path you are currently in
+
+
+
+
+
